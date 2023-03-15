@@ -1,0 +1,10 @@
+.bar {
+    width: 20px;
+    background-color: white;
+    margin: 5px;
+}
+
+
+.bar--swapping {
+    background-color: red;
+}
